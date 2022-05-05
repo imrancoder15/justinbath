@@ -1,0 +1,24 @@
+ul label{
+    font-size: 20px;
+    color: darkblue;
+    margin-right: 45%;
+}
+ul li .nav-link{
+    color: white;
+}
+.Bond h2{
+    text-align: center;
+    font-size: 150px;
+    margin-top: 15%;
+    color: deeppink;
+}
+.Bond p{
+    font-size: 30px;
+    text-align: center;
+    color:black;
+}
+.Bond{
+    background-image: url(../image/the\ language\ bathtub\ effect.jpg);
+    width: 100%;
+    height: 600px;
+}
